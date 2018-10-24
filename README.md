@@ -1,4 +1,4 @@
 # CTBNtoolbox
 A toolbox for exact and approximate inference in continuous-time Bayesian networks.
-
-created by Dominik Linzner
+Will be made available shortly after NIPS2018 conference.
+-Dominik Linzner
