@@ -6,7 +6,7 @@ This toolbox contains MATLAB implementations of methods for exact and approximat
 We provide a couple of test scripts in the folder SCRIPTS for posterior inference and structure learning. With the exception of the IRMA test script (in SynthGRN_IRMA folder) these experiments are performed on synthetic data. 
 For the IRMA test script, data is available at:
 
-http://www.cell.com/supplemental/ S0092-8674(09)00156-1 
+http://www.cell.com/supplemental/S0092-8674(09)00156-1 
 
 Reference: I. Cantone et al., A Yeast Synthetic Network for In Vivo Assessment of Reverse-Engineering and Modeling Approaches, Cell, vol. 137, no. 1, pp. 172--181, 2009.
 
@@ -25,6 +25,6 @@ We suggest re-scaling data to ~1 Transition per time unit and assuming a rate pr
 This toolbox depends in parts on the MATLAB statistics toolbox.
 For parallel computing MATLABs parallel computing toolbox is needed.
 
-Acknowledgements: Dominik Linzner is funded by the European Union???s Horizon 2020 research and innovation programme under grant agreement 668858 (PrECISE).
+Acknowledgements: Dominik Linzner is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement 668858 (PrECISE).
 
 -Dominik Linzner (dominik.linzner@bcs.tu-darmstadt.de)
